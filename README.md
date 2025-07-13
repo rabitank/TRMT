@@ -1,2 +1,2 @@
-# -
+# Tactical Maidens and Related Theories
 世界观企划 - 战术少女及其相关理论 文档集散仓库（使用obsidian）。
